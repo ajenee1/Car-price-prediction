@@ -4,7 +4,8 @@ It builds and explains machine learning models for **predicting car prices** bas
 The workflow includes data preprocessing, an XGBoost model, and a Neural Network model, with SHAP explainability to highlight global and local feature importance.  
    
 
-## Project Structure  
+## Project Structure
+```  
 ├── car_sales_data.csv # Raw dataset
 ├── clean_df.csv # Preprocessed / cleaned dataset
 ├── data_mgmt.ipynb # Data cleaning & feature engineering
@@ -12,6 +13,7 @@ The workflow includes data preprocessing, an XGBoost model, and a Neural Network
 ├── NN.ipynb # Neural Network training notebook
 ├── XGB_model.joblib # Trained XGBoost model
 ├── XGB.ipynb # XGBoost training notebook
+```
 
 
 ## Features  
