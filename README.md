@@ -19,8 +19,8 @@ The workflow includes data preprocessing, an XGBoost model, and a Neural Network
 ## Features  
 - **Data Preprocessing**: Cleaning, encoding, and preparing raw car sales data.  
 - **Modeling**:  
-  - **XGBoost** model for structured data performance.  
-  - **Neural Network (NN)** model for deep learning experimentation.  
+  - **XGBoost**. 
+  - **Neural Network (NN)**.
 - **Explainability**: SHAP values to interpret model predictions.  
 - **Reproducibility**: All steps documented in Jupyter notebooks.  
 
